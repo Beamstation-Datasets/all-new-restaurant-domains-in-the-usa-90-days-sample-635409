@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The Startup List.\n\nBusinesses that registered their website domain < 90 Days ago. Nation wide coverage.\n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "All New Restaurant Domains in the USA (< 90 days)",
+  "export_job_id": "993f91fb-ca1f-452d-a089-713dcf09b804",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 635409,
+  "location_name": "United States",
+  "location_type": "country",
+  "repo_name": "all-new-restaurant-domains-in-the-usa-90-days-sample-635409",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/635409/beamstation_635409_restaurants-us-us_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 450,
+  "sample_sha256": "6ce7c94087a8c7af633920d6858ca9555b662970636db7506c35b88002c4eccd",
+  "sample_size_bytes": 1652642,
+  "total_records": 4501,
+  "updated_at": "2026-04-08T05:01:40.452894+00:00"
+}
