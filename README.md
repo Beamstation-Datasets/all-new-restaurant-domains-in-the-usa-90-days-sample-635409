@@ -1,6 +1,6 @@
 # All New Restaurant Domains in the USA (< 90 days)
 
-> Free BeamStation sample export with 450 rows and masked direct-contact fields.
+> Free BeamStation sample export with 420 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `635409` |
 | Location | United States |
 | Category | Restaurants |
-| Full dataset size | 4,501 records |
-| Free sample size | 450 records (10.0%) |
-| Last export | 2026-04-08T05:01:40.452894+00:00 |
+| Full dataset size | 4,208 records |
+| Free sample size | 420 records (9.98%) |
+| Last export | 2026-04-15T09:16:11.872678+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-new-restaurant-domains-in-the-usa-90-days-sample-635409/releases/download/sample-latest/beamstation_635409_restaurants-us-us_SAMPLE_DIST.csv) |
 
 ## What is in this sample
