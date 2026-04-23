@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a90c7df8-a730-464a-9d23-db37bb699ec3",
+  "export_job_id": "08bea2e2-303b-44b5-b79d-4eb7b4271d2b",
   "id_short": 635409,
-  "published_at": "2026-04-19T07:35:08Z",
+  "published_at": "2026-04-23T07:21:03Z",
   "repo_name": "all-new-restaurant-domains-in-the-usa-90-days-sample-635409",
   "sample_asset_name": "beamstation_635409_restaurants-us-us_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/635409/beamstation_635409_restaurants-us-us_SAMPLE_DIST.csv",
-  "sample_records": 420,
-  "sample_sha256": "cf301d67f4be43a1c1baaa040d3d8199646048ce0036e3b511f6d08e3ec298e1",
-  "sample_size_bytes": 1560508,
-  "total_records": 4208
+  "sample_records": 313,
+  "sample_sha256": "dc73d3fd14384411d3ffc0c73f6e3c2985e24a10cbb3c7ff413f0f0cebd50b9a",
+  "sample_size_bytes": 1027637,
+  "total_records": 3138
 }
